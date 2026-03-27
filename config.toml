@@ -1,0 +1,13 @@
+project_id = "rackmotgkopxetdlwywy"
+
+[functions.menopause-ai]
+verify_jwt = false
+
+[functions.cycle-ai]
+verify_jwt = false
+
+[functions.log-feedback]
+verify_jwt = false
+
+[functions.daily-insights]
+verify_jwt = false
